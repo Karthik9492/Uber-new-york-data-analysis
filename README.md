@@ -23,7 +23,7 @@ April, March, and February had consistent performance (~15,000 rides).
 January showed the lowest activity, below 15,000 rides.
 
 Overall trend: Steady increase in rides from January to June.
-
+https://github.com/Karthik9492/Uber-new-york-data-analysis/blob/main/Screenshot%202025-04-06%20180424.png
 # HOURLY RUSH IN NEW YORK
 
 Peak Hours: Highest activity observed at 6:00 PM (18:00) and 9:00 PM (21:00)
