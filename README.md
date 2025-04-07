@@ -29,7 +29,7 @@ https://github.com/Karthik9492/Uber-new-york-data-analysis/blob/main/Screenshot%
 Peak Hours: Highest activity observed at 6:00 PM (18:00) and 9:00 PM (21:00)
 
 Top Performing Day: Friday shows the highest overall ride activity.
-
+https://github.com/Karthik9492/Uber-new-york-data-analysis/blob/main/Screenshot%202025-04-06%20181953.png
 # Key Visual Insights
 Busiest Months: June & May
 
